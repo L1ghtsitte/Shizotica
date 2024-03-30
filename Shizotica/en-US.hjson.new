@@ -1,0 +1,11 @@
+
+Mods: {
+	Shizotica: {
+		Items: {
+			Shogore: {
+				DisplayName: Shogore
+				Tooltip: Меч сделаный из слизи и щуполец кальмара, похож на тентакли не правда ли?
+			}
+		}
+	}
+}

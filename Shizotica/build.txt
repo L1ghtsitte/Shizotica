@@ -1,0 +1,3 @@
+displayName = Shizotica
+author = L1ghtsitte
+version = 0.2
